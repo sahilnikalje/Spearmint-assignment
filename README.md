@@ -1,10 +1,10 @@
-# DscoverAi-assignment
+# Spearmint-assignment
 
 A full-stack product discovery app where users can browse products or use natural language to ask AI for recommendations.
 
 🌐 **Live Demo**  
-Frontend: https://discvrai-assignment.vercel.app  
-Backend API: https://discvrai-assignment-4of4.onrender.com  
+Frontend: https://spearmint-assignment-blush.vercel.app/
+Backend API: https://spearmint-assignment-9lps.onrender.com  
 
 ---
 
@@ -202,7 +202,7 @@ Backend deployed on **Render**
 
 Production API Base:
 ```
-https://discvrai-assignment-4of4.onrender.com
+https://spearmint-assignment-9lps.onrender.com
 ```
 
 Production App:
